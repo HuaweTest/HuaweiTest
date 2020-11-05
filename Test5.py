@@ -1,1 +1,3 @@
-smth
+
+print("Hello")
+print("World")
